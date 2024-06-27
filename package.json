@@ -1,0 +1,25 @@
+{
+  "name": "moonmirrorweb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "path": "^0.12.7",
+    "sass": "^1.70.0",
+    "socket.io-client": "^4.7.4",
+    "vant": "^4.8.3",
+    "vue": "^3.3.11"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.0.2",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.0.8"
+  }
+}
